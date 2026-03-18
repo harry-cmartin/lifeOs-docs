@@ -9,7 +9,7 @@ FinanceService
 ![[Pasted image 20260315191514.png]]
 
 TasksService
-![[Pasted image 20260315191534.png]]
+![[Pasted image 20260317214447.png]]
 
 HealthService
 
